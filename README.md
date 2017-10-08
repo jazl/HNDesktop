@@ -14,3 +14,6 @@ Check out the 'Issues' section here for some details on what's broken, and some 
 
 Or if you are nostalgic for the old Metal 'look and feel,' like I am:
 ![Screenshot](https://github.com/westoncb/HNDesktop/blob/master/screenshot2.png?raw=true "Optional Title")
+
+Hacker News thread:
+https://news.ycombinator.com/item?id=15425545
